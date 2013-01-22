@@ -44,6 +44,8 @@ Tutorial de instalação por [Michael Sheldon](http://blog.mikeasoft.com/2011/01
 
 ---------------------------------------
 
+# kindle-dict-en-pt
+
 English-Portuguese and Portuguese-English dictionaries for Kindle. Tested on Kindle 4 only.
 
 ## Downloading
