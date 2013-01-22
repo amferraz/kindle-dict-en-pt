@@ -10,7 +10,7 @@ Dicionários inglês-português e português-inglês para Kindle. Testado soment
 
 ## Instalando e configurando
 
-Se este é o único dicionário que você tem para esse idioma, não precisa fazer mais nada. Se você tem outros dicionários:
+Se este é o único dicionário que você tem para esse idioma, basta colocar no seu Kindle e não precisa fazer mais nada. Se você tem outros dicionários:
 
 1. Aperte a tecla menu no seu Kindle
 2. Selecione "Configurações"
@@ -56,7 +56,7 @@ English-Portuguese and Portuguese-English dictionaries for Kindle. Tested on Kin
 
 ## Installing and configuring
 
-If this is the only dictionary you have for this language you’re now done. If you have multiple dictionaries:
+If this is the only dictionary you have for this language, just put it on your Kindle and you're now done. If you have multiple dictionaries:
 
 1. Press the menu key on your Kindle
 2. Select Settings
