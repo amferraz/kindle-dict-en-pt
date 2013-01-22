@@ -30,7 +30,7 @@ E dois arquivos serão gerados: `Portuguese-English.mobi` e `English-Portuguese.
 
 ## Correções
 
-Estes dicionários contam com a contribuição e correção das pessoas que os usam. Então, se você encontrou algum problema ou erro, por favor, nos avise. Uma boa forma de fazer isso é criando uma [issue](https://github.com/amferraz/kindle-dict-en-pt/issues/new) ou fazendo um pull request, com as correções/adições apropriadas no arquivo ".tab"
+Estes dicionários contam com a contribuição e correção das pessoas que os usam. Então, se você encontrou algum problema ou erro, por favor, nos avise. Uma boa forma de fazer isso é criando uma [issue](https://github.com/amferraz/kindle-dict-en-pt/issues/new) ou fazendo um pull request, com as correções/adições apropriadas no arquivo ".tab". O arquivo ".tab" contém as traduções e é um arquivo simples de duas colunas separado por tabulações que você pode abrir e editar facilmente com programas como [LibreOffice Calc](http://pt-br.libreoffice.org/) ou Excel.
 
 
 ## Créditos
@@ -76,7 +76,7 @@ Then two files will be generated: `Portuguese-English.mobi` e `English-Portugues
 
 ## Corrections
 
-The dictionaries rely on the contribution and correction by the people that use them. So, if you have found any problems or erros, please, let us know. A good way to do this is to create an [issue](https://github.com/amferraz/kindle-dict-en-pt/issues/new) or making a pull request, with the proper corrections/addictions in the ".tab" file.
+The dictionaries rely on the contribution and correction by the people that use them. So, if you have found any problems or erros, please, let us know. A good way to do this is to create an [issue](https://github.com/amferraz/kindle-dict-en-pt/issues/new) or making a pull request, with the proper corrections/addictions in the ".tab" file. The ".tab" file contains the translations and is a simple tab-delimited two-column file you can open and edit easily with softwares such as [LibreOffice Calc](http://www.libreoffice.org/) or Excel.
 
 
 ## Credits
